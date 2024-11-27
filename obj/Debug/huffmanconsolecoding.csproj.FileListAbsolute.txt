@@ -1,0 +1,7 @@
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\bin\Debug\huffmanconsolecoding.exe.config
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\bin\Debug\huffmanconsolecoding.exe
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\bin\Debug\huffmanconsolecoding.pdb
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\obj\Debug\huffmanconsolecoding.csproj.AssemblyReference.cache
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\obj\Debug\huffmanconsolecoding.csproj.CoreCompileInputs.cache
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\obj\Debug\huffmanconsolecoding.exe
+C:\Users\Shinn PC\source\repos\huffmanconsolecoding\huffmanconsolecoding\obj\Debug\huffmanconsolecoding.pdb
